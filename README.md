@@ -4,24 +4,18 @@
 <p align="center">
   <h1 align="center">Boinnex Ltd.</h1>
   <h4 align="center">Ireland’s Leading Blockchain And Cryptocurrency Provider</h4>
-
-<!--
-  <p align="center">
-    <br />
-       <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-       <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-       <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-       <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-  
-  -->
-
+  <p align="center"><i>Follow us on:</i></p>
 </p>
 
+<p align="center">
+<a href="https://www.facebook.com/Boinnexeire/"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/facebook(1).png" width="50" height="50"></a>
+<a href="https://twitter.com/boinnexeire"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/twitter.png" width="50" height="50"></a>
+<a href="https://www.instagram.com/boinnex.crypto.eire/"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/instagram(1).png" width="50" height="50"></a>
+<a href="https://ie.linkedin.com/company/boinnex"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/linkedin(1).png" width="50" height="50"></a>
+<a href="https://www.youtube.com/channel/UC15HCsCujDeNO_NjoP00Mhw"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/youtube.png" width="50" height="50"></a>
+<a href="https://t.me/BoinnexUpdates"><img src="https://github.com/Boinnex/Boinnex/blob/main/images/social_media/telegram.png" width="50" height="50"></a>
+
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
