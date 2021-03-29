@@ -1,26 +1,23 @@
-### Hi there 👋
+  ![Cover](https://github.com/Boinnex/Boinnex/blob/main/images/cropped-Logo_Boinnex-scaled-1-1536x527.jpg)
+
+<br />
+<p align="center">
+  <h1 align="center">Boinnex Ltd.</h3>
+  <h4 align="center">Ireland’s Leading Blockchain And Cryptocurrency Provider</h4>
 
 <!--
+  <p align="center">
+    <br />
+       <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+       <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+       <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+       <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+  
+  -->
 
-Initial commit
-
- ![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
-
-
-
-
-
-
-**Boinnex/Boinnex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
