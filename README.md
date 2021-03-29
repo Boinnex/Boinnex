@@ -51,10 +51,7 @@
 
 ## About Us
 
-
-
-
-### Boinnex
+#### Boinnex
 
 - Boinnex is an Irish company committed to promoting the use of cryptocurrency, blockchain and other decentralised technologies.
 
@@ -62,11 +59,49 @@
   - We operate Bitcoin ATMs in Ireland and provide secure and private OTC services to institutional clients.
   - We also offer blockchain R&D and consultancy services.
 
-## The Team
+#### The Team
+<table style="width:80%", align="center">
+  <tr>
+    <td>Bryan Tierney</td>
+    <td>FOUNDER AND CEO</td>
+  </tr>
+  <tr>
+    <td>Vanessa Pereira</td>
+    <td>HR DIRECTOR</td>
+  </tr>
+  <tr>
+    <td>Dr Robin Renwick</td>
+    <td>HEAD OF RESEARCH</td>
+  </tr>
+    <tr>
+    <td>Damien Cunningham</td>
+    <td>CRYPTO OPERATIONS SPECIALIST</td>
+  </tr>
+  <tr>
+    <td>Ozzak Jure Matic</td>
+    <td>BLOCKCHAIN ENGINEER INTERN</td>
+  </tr>
+</table>
+
 ## Services
-## Bitcoin ATMs
-## OTC
-## Research
-## Consultancy
+#### Bitcoin ATMs
+- We own and operate the largest Bitcoin ATM network in Ireland. Interested in hosting one at your premises?
+  - Get in touch or explore our <a href="https://boinnex.com/bitcoin-atms/">locations</a>.  
+
+#### OTC
+- Boinnex Over-the-counter (OTC) trading combines access to deep market liquidity with complete privacy and uncompromising security.
+
+#### Research
+- Boinnex are working with business, academics and technical experts to design and develop blockchain solutions that address real world challenges.
+  - Would you like to <a href="https://boinnex.com/research-and-development/">know more</a>?
+
+#### Consultancy
+- We offer flexible consulting services on a wide variety of blockchain and cryptocurrency topics. 
+  - <a href="https://boinnex.com/consulting/">Talk to us today</a>.
+
 ## Roadmap
+- Loads of interesting projects in the pipeline. Stay tuned to learn more.
+
 ## Contact
+- Support:  support@boinnex.com
+- Information:  info@boinnex.com
